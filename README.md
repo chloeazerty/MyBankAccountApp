@@ -2,13 +2,13 @@
 Une app simple, faite en Java, utilisant surtout la classe java.util.Scanner.
 
 Elle permet de  
--> afficher le nom du client. <br>  
+-> afficher le nom du client<br>  
 -> l' Id du client
 
 et d'effectuer quelques opérations:  
-A. Vérifiez votre compte. 
-B. Effectuez un dépôt. 
-C. Effectuez un retrait. 
-D. Visualiser votre dernière transaction. 
-E. Calculer le taux d’intérêt. 
-F. Quitter. 
+A. Vérifiez votre compte<br>  
+B. Effectuez un dépôt<br>  
+C. Effectuez un retrait<br>  
+D. Visualiser votre dernière transaction<br>  
+E. Calculer le taux d’intérêt<br>  
+F. Quitter 
