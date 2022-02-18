@@ -2,7 +2,7 @@
 Une app simple, faite en Java, utilisant surtout la classe java.util.Scanner.
 
 Elle permet de  
--> afficher le nom du client. 
+-> afficher le nom du client. <br>  
 -> l' Id du client
 
 et d'effectuer quelques opérations:  
